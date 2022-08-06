@@ -1,0 +1,6 @@
+What is your surname? Rahad siddiky.
+What do you do?Rahad.
+What class do you read?
+I'm reading CSE engineering in Diploma.
+How are you doing?
+Well, Not bad at.
